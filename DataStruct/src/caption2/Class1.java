@@ -6,8 +6,10 @@ public class Class1 {
     {
     	this.str = s;
     }
+    //this is a test program
 	public void showstr()
 	{
 		System.out.println(str);
+                System.out.println(str);
 	}
 }
